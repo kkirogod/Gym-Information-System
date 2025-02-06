@@ -1,6 +1,4 @@
-# Gym-Information-System
-Design and implementation of an Information System based on a requirements analysis and a relational database schema.
-
+# Gym Information System
 
 Diseño e implementación de un Sistema de Información partiendo de un análisis de requisitos y un esquema de base de datos relacional.
 

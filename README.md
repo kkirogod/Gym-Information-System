@@ -13,4 +13,5 @@ Tecnologías utilizadas:
 - Sistema Gestor de Bases de Datos: Oracle y MariaDB
 - Herramienta de Mapeo Objeto-Relacional (Hibernate)
 
-![image](https://github.com/user-attachments/assets/513ffafd-5e3e-4491-b5ba-1c6b01ec10ee)
+
+![image](https://github.com/user-attachments/assets/147e5d16-e1be-4fd6-b9ac-ab62634e2e2d)
